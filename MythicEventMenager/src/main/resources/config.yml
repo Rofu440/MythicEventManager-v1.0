@@ -1,0 +1,11 @@
+delay-timer: 60
+timer: 45
+events:
+  gruz:
+    name: "&cГруз"
+    start-command: "/bair start air"
+    chance: 60
+  pvp:
+    name: "PvP"
+    start-command: "/arena start pvp"
+    chance: 40
